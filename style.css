@@ -1,0 +1,75 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+    margin-left: 18px;
+    font-weight: 600;
+}
+.nav-link:hover{
+    border-radius: 10px;
+    background-color: #21b573;
+    font-weight: 800;
+    
+}
+.fast-text{
+    font-weight: 900;
+}
+.schedule{
+    color: #21b573;
+}
+.banner-text{
+    padding-top: 120px;
+    text-align: center;
+}
+#fast-contain{
+    padding-top: 80px;
+}
+#book{
+    margin: 50px;
+    height: 100px;
+    width: 100px;
+}
+.card-dec{
+    text-decoration: none;
+}
+#button{
+    border-radius: 25px;
+}
+.ten li{
+    list-style: none;
+    font-size: 12px;
+    
+}
+#trd-card{
+    width: 380px;
+    height: 250px;
+    margin: 18px;
+}
+.card{
+    border: none;
+}
+.card{
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px 5px lightgrey;
+}
+#card-icon{
+    width: 25px;
+}
+#lest-contain{
+    padding-top: 80px;
+    background-color: #282531;
+    color: white;
+}
+#lest{
+    font-size: 14px;
+    padding-left: 80px;
+}
+.ft-list{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+#copyright{
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
